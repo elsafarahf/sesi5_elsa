@@ -6,7 +6,7 @@ This repository contains all tasks for sessions 2, 3, and 4 from the QA Engineer
 
 - **Task 2**: Create test plan, test case, and bug report for SauceDemo website
 - **Task 3**: Programming fundamental - create right triangle using for loop in JavaScript
-- **Task 4**: Create a simple calculation function using JavaScript
+- **Task 4**: Programming advanced - create a simple calculation function using JavaScript
 
 ## How to Open the Project Folders
 
