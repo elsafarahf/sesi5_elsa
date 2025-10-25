@@ -1,18 +1,18 @@
-# QA Engineer Bootcamp - Digital Skola
+# 🎯 QA Engineer Bootcamp - Digital Skola
 
 This repository contains all tasks for sessions 2, 3, and 4 from the QA Engineer Bootcamp at Digital Skola.
 
-## Contents
+## 📋 Contents
 
 - **Task 2**: Create test plan, test case, and bug report for SauceDemo website
 - **Task 3**: Programming fundamental - create right triangle using for loop in JavaScript
 - **Task 4**: Programming advanced - create a simple calculation function using JavaScript
 
-## How to Open the Project Folders
+## 🚀 How to Open the Project Folders
 
 Follow these steps depending on the file type:
 
-### For JavaScript Files
+### 💻 For JavaScript Files
 
 Open in a text editor such as:
 
@@ -28,7 +28,7 @@ code folder-name
 
 (Ensure VS Code is installed and added to your system PATH.)
 
-### For Word and Excel Files
+### 📄 For Word and Excel Files
 
 Open manually using:
 
@@ -37,7 +37,7 @@ Open manually using:
 
 Simply double-click the file, or right-click → Open With... → select the appropriate program.
 
-## Folder Structure
+## 📁 Folder Structure
 
 ```
 sesi5_elsa/
@@ -56,7 +56,7 @@ sesi5_elsa/
 └── README.md
 ```
 
-## Notes
+## 📝 Notes
 
 - Ensure you have the required applications installed (VS Code, Word, Excel).
 - Make sure to open .js files in a text editor for readability and editing.
