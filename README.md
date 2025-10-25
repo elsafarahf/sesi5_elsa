@@ -61,3 +61,11 @@ sesi5_elsa/
 - Ensure you have the required applications installed (VS Code, Word, Excel).
 - Make sure to open .js files in a text editor for readability and editing.
 - Avoid renaming or moving files unless necessary to maintain consistency.
+
+## 👩🏻‍💻 Author
+
+**Elsa Farah Fauzia**  
+_Senior Software Quality Assurance_  
+📍 Jakarta, Indonesia
+
+🔗 [LinkedIn](https://www.linkedin.com/in/elsafarahfauzia/) | [GitHub](https://github.com/elsafarahhf)
